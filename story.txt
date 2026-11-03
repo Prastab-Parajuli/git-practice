@@ -1,0 +1,5 @@
+My First Story
+
+Once upon a time, there was a student who wanted to learn software development.
+The student started learning Git and GitHub to improve their programming skills.
+Every day, the student learned something new.
