@@ -1,0 +1,4 @@
+School Notes
+
+Learning Git and GitHub.
+Practicing software development.
