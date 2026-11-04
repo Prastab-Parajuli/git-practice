@@ -9,4 +9,8 @@ Coffee
 Cheese
 Bananas
 Yogurt
+<<<<<<< Updated upstream
 Eggs
+=======
+Bread
+>>>>>>> Stashed changes
