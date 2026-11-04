@@ -1,0 +1,7 @@
+Remote name: origin
+
+Fetch:
+https://github.com/Prastab-Parajuli/git-practice.git
+
+Push:
+https://github.com/Prastab-Parajuli/git-practice.git
