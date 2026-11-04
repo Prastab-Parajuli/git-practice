@@ -9,3 +9,4 @@ Coffee
 Cheese
 Bananas
 Yogurt
+Eggs
