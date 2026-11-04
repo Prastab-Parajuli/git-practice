@@ -9,8 +9,6 @@ Coffee
 Cheese
 Bananas
 Yogurt
-<<<<<<< Updated upstream
 Eggs
-=======
 Bread - Whole wheat
->>>>>>> Stashed changes
+Cloned repository is working successfully!
